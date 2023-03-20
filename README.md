@@ -18,3 +18,10 @@ author vincent55
 	create first crawler code
 
 	p.m. 04:12
+
+## March 21
+	went in day8
+	train basic requestsHTML with Session
+	learn find runction
+
+	a.m. 01:49
