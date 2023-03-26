@@ -25,3 +25,11 @@ author vincent55
 	learn find runction
 
 	a.m. 01:49
+
+## March 26
+	finish day08 and 09
+	day08 XPath, search, search_all
+	day09 bs4 with html5lib analyzer
+		find(), find_all(), search()
+
+	a.m. 12:52
