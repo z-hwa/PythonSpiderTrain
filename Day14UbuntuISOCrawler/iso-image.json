@@ -1,0 +1,22 @@
+{
+  "14.04/": {
+    "desktopIso": "ubuntu-14.04.6-desktop-amd64.iso",
+    "serverIso": "ubuntu-14.04.6-server-amd64.iso"
+  },
+  "16.04/": {
+    "desktopIso": "ubuntu-16.04.7-desktop-amd64.iso",
+    "serverIso": "ubuntu-16.04.7-server-amd64.iso"
+  },
+  "18.04/": {
+    "desktopIso": "ubuntu-18.04.6-desktop-amd64.iso",
+    "serverIso": "ubuntu-18.04.6-live-server-amd64.iso"
+  },
+  "20.04/": {
+    "desktopIso": "ubuntu-20.04.6-desktop-amd64.iso",
+    "serverIso": "ubuntu-20.04.6-live-server-amd64.iso"
+  },
+  "22.04/": {
+    "desktopIso": "ubuntu-22.04.2-desktop-amd64.iso",
+    "serverIso": "ubuntu-22.04.2-live-server-amd64.iso"
+  }
+}
