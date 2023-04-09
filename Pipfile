@@ -8,6 +8,7 @@ requests = "*"
 requests-html = "*"
 beautifulsoup4 = "*"
 html5lib = "*"
+openpyxl = "*"
 
 [dev-packages]
 
